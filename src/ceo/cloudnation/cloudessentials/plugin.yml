@@ -1,0 +1,35 @@
+name: CloudEssentials
+version: 1.1.2
+author: Avexiie
+main: ceo.cloudnation.cloudessentials.Main;
+description: Masih tahap perkembangan 
+
+commands:
+  feed:
+    description: Lapar ya makan.
+    usage: /<command> 
+    aliases: [eat,feed]
+  fly:
+    description: Fun ya terbang.
+    usage: /<command> 
+    aliases: [fly]
+  heal:
+    description: Dying y heal.
+    usage: /<command>
+    aliases: [heal]
+  ping:
+    description: Check ping.
+    usage: /<command>
+    aliases: [ping]
+  tp:
+  description:
+  usage: /<command>
+  aliases: [tp,teleport]
+  kick:
+    description: Kicked a player.
+    usage: /<command>
+    aliases: [kick]
+  ban:
+    description: banned a player.
+    usage: /<command>
+    aliases: [ban]
