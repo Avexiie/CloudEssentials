@@ -1,0 +1,42 @@
+name: CloudEssentials
+version: 1.0.0
+author: Avexiie
+main: com.github.avexiie.CloudEssentials
+softdepend: [MYSlots, LuckyInjector]
+
+commands:
+  cloudessentials:
+    aliases: [cess, ess]
+  ewhitelist:
+    aliases: [ewl, wl, whitelist]
+  feed:
+    aliases: [eat]
+  smite:
+    aliases: [thor]
+  teleport:
+    aliases: [tp, tppos, tphere, s]
+  troll:
+    aliases: [trolls]
+  editsign:
+  enchant:
+  explode:
+  fakeplace:
+  fix:
+  fly:
+  getpos:
+  god:
+  heal:
+  invsee:
+  kickall:
+  more:
+  nobreak:
+  nodamage:
+  nohit:
+  nointeract:
+  nopickup:
+  noplace:
+  onetap:
+  slots:
+  speed:
+  sudo:
+  top:

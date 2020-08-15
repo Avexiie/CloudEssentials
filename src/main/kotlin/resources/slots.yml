@@ -1,0 +1,4 @@
+slots:
+  enabled: false
+  kick_message: 'Server full!'
+  max_player: 50
